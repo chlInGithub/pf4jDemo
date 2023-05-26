@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: chl
+Build-Jdk: 1.8.0_291
+Plugin-Class: com.chl.pf4j.plugin1.Plugin1Plugin
+Plugin-Id: my-plugin-1
+Plugin-Provider: chl
+Plugin-Version: 0.0.1
