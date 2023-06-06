@@ -4,5 +4,5 @@ import org.pf4j.ExtensionPoint;
 
 public interface MyExtention extends ExtensionPoint {
 
-	String who();
+	String doSomeExtention(String parm);
 }
